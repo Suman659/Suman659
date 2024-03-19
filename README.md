@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suman Mahato</h1>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhld2syaW5sNmpwa2lvcHBiMHVweTdxNDA2bWgzYngyNXM5dDUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 3rd Year Undergard student pursuing B.tech CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman659&label=Profile%20views&color=0e75b6&style=flat" alt="suman659" /> </p>
 
