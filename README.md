@@ -32,5 +32,5 @@
 </p>
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
 </p>
-<img align="middle" alt="Dave" height="200" width="200" src="https://media.giphy.com/media/03ZduhRk2Gj86ksym2/giphy.gif?cid=ecf05e47ll4jn7zym64fv3ys7rzfhvsfxgi88mu9m0anztr5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="middle" alt="Dave" height="200" width="800" src="https://media.giphy.com/media/03ZduhRk2Gj86ksym2/giphy.gif?cid=ecf05e47ll4jn7zym64fv3ys7rzfhvsfxgi88mu9m0anztr5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
