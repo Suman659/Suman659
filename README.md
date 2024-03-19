@@ -28,8 +28,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suman659&show_icons=true&locale=en" alt="suman659" /></p>
+<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=suman659&show_icons=true&locale=en" alt="suman659" /></p>
 
-<p><img align="center right" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
+<img align="right" alt="Dave" height="400" width="400" src="https://media.giphy.com/media/03ZduhRk2Gj86ksym2/giphy.gif?cid=ecf05e47ll4jn7zym64fv3ys7rzfhvsfxgi88mu9m0anztr5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<img align="down right" alt="Coding" width="450" src="https://media.giphy.com/media/03ZduhRk2Gj86ksym2/giphy.gif?cid=ecf05e47ll4jn7zym64fv3ys7rzfhvsfxgi88mu9m0anztr5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
+</p>
