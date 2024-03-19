@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suman659&show_icons=true&locale=en" alt="suman659" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
+
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/mahat/Downloads/I%E2%80%99m%20glad%20you%20visited.gif">
