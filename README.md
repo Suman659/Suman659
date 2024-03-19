@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suman Mahato</h1>
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhld2syaW5sNmpwa2lvcHBiMHVweTdxNDA2bWgzYngyNXM5dDUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhld2syaW5sNmpwa2lvcHBiMHVweTdxNDA2bWgzYngyNXM5dDUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
