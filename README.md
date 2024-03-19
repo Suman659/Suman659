@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toOXY5dXphdjR4Ym5wZXpuZG8wOTQyZTA5a3k2OHE2djgybXZvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XozChPUJmcRsPSrXx8/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRmcGFzbG1yYjJnaGk2djdqeGlpNWx3OW0zZTRpaXhsNmVhM3M4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqGASOk0Rfjzw6GbLU/giphy-downsized-large.gif">
