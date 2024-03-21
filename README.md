@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suman Mahato</h1>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhld2syaW5sNmpwa2lvcHBiMHVweTdxNDA2bWgzYngyNXM5dDUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhld2syaW5sNmpwa2lvcHBiMHVweTdxNDA2bWgzYngyNXM5dDUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif">
 
 <h3 align="center">A 3rd Year Undergard B.tech CSE Student</h3>
 
@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suman659&show_icons=true&locale=en" alt="suman659" /></p>
 </p>
-<img align="right" alt="Dave" height="400" width="400" src="https://media.giphy.com/media/03ZduhRk2Gj86ksym2/giphy.gif?cid=ecf05e47ll4jn7zym64fv3ys7rzfhvsfxgi88mu9m0anztr5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</p>
+<img align="" alt="Coding" height ="200" width="450" src="https://media.giphy.com/media/mXXoPNx21mQzVTz9lM/giphy.gif?cid=ecf05e47j9ryb19qxhv4xsucvp9w34vhrfqmgc9kxgnuoev0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=suman659&" alt="suman659" /></p>
 </p>
